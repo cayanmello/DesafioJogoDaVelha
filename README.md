@@ -2,7 +2,7 @@
 
 ## :computer: Projeto
 
-Repositório Desafio Jogo Da Velha da Academia .NET 6
+Repositório desafio jogo da velha da Academia .NET 6
 
 ## ✔️ Recursos Utilizados
 
